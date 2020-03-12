@@ -1,9 +1,19 @@
 newfile
-sruthi (Sru)
-swaathi (Swa)
-<<<<<<< HEAD
+sruthi
+swaathi
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Hi..!!
 
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 79a0c30... updated
+=======
+>>>>>>> parent of 5ec96b7... last
+=======
+>>>>>>> parent of 5ec96b7... last
+=======
+Hi..!!
+>>>>>>> parent of ee81616... up
+>>>>>>> parent of c112388... first
