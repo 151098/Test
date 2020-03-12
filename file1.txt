@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 newfile
 sruthi
 swaathi
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Hi..!!
@@ -12,3 +12,6 @@ Hi..!!
 >>>>>>> parent of 5ec96b7... last
 =======
 >>>>>>> parent of 5ec96b7... last
+=======
+Hi..!!
+>>>>>>> parent of ee81616... up
