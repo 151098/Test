@@ -6,16 +6,4 @@ swaathi (Swa)
 <<<<<<< HEAD
 <<<<<<< HEAD
 Hi..!!
-=======
 
->>>>>>> parent of 79a0c30... updated
-=======
->>>>>>> parent of 5ec96b7... last
-=======
->>>>>>> parent of 5ec96b7... last
-=======
-Hi..!!
->>>>>>> parent of ee81616... up
-=======
-Hi..!!
->>>>>>> parent of ee81616... up
