@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 newfile
 sruthi
 swaathi
 Hi..!!
+=======
+
+>>>>>>> parent of 79a0c30... updated
